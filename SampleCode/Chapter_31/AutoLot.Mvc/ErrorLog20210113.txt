@@ -1,0 +1,159 @@
+[21-01-13 00:44:33 Warning]:Microsoft.EntityFrameworkCore.Model.Validation
+Message:The 'bool' property '"IsDrivable"' on entity type '"Car"' is configured with a database-generated default. This default will always be used for inserts when the property has the value 'false', since this is the CLR default for the 'bool' type. Consider using the nullable 'bool?' type instead so that the default will only be used for inserts when the property value is 'null'.
+in method  at :
+
+[21-01-13 00:44:37 Warning]AutoLot.Mvc - Dev:AutoLot.Mvc.Controllers.HomeController
+Message:This is a test
+in method Index at D:\Projects\Books\csharp9-wf\Code\New\Chapter_31\AutoLot.Mvc\Controllers\HomeController.cs:25
+
+[21-01-13 00:44:41 Warning]AutoLot.Mvc - Dev:AutoLot.Mvc.Controllers.HomeController
+Message:This is a test
+in method Index at D:\Projects\Books\csharp9-wf\Code\New\Chapter_31\AutoLot.Mvc\Controllers\HomeController.cs:25
+
+[21-01-13 01:22:51 Warning]:Microsoft.EntityFrameworkCore.Model.Validation
+Message:The 'bool' property '"IsDrivable"' on entity type '"Car"' is configured with a database-generated default. This default will always be used for inserts when the property has the value 'false', since this is the CLR default for the 'bool' type. Consider using the nullable 'bool?' type instead so that the default will only be used for inserts when the property value is 'null'.
+in method  at :
+
+[21-01-13 01:22:54 Warning]AutoLot.Mvc - Dev:AutoLot.Mvc.Controllers.HomeController
+Message:This is a test
+in method Index at D:\Projects\Books\csharp9-wf\Code\New\Chapter_31\AutoLot.Mvc\Controllers\HomeController.cs:25
+
+[21-01-13 11:34:27 Warning]:Microsoft.EntityFrameworkCore.Model.Validation
+Message:The 'bool' property '"IsDrivable"' on entity type '"Car"' is configured with a database-generated default. This default will always be used for inserts when the property has the value 'false', since this is the CLR default for the 'bool' type. Consider using the nullable 'bool?' type instead so that the default will only be used for inserts when the property value is 'null'.
+in method  at :
+
+[21-01-13 11:34:31 Warning]AutoLot.Mvc - Dev:AutoLot.Mvc.Controllers.HomeController
+Message:This is a test
+in method Index at D:\Projects\Books\csharp9-wf\Code\New\Chapter_31\AutoLot.Mvc\Controllers\HomeController.cs:25
+
+[21-01-13 13:48:11 Warning]:Microsoft.EntityFrameworkCore.Model.Validation
+Message:The 'bool' property '"IsDrivable"' on entity type '"Car"' is configured with a database-generated default. This default will always be used for inserts when the property has the value 'false', since this is the CLR default for the 'bool' type. Consider using the nullable 'bool?' type instead so that the default will only be used for inserts when the property value is 'null'.
+in method  at :
+
+[21-01-13 13:48:14 Warning]AutoLot.Mvc - Dev:AutoLot.Mvc.Controllers.HomeController
+Message:This is a test
+in method Index at D:\Projects\Books\csharp9-wf\Code\New\Chapter_31\AutoLot.Mvc\Controllers\HomeController.cs:25
+
+[21-01-13 14:18:18 Warning]:Microsoft.EntityFrameworkCore.Model.Validation
+Message:The 'bool' property '"IsDrivable"' on entity type '"Car"' is configured with a database-generated default. This default will always be used for inserts when the property has the value 'false', since this is the CLR default for the 'bool' type. Consider using the nullable 'bool?' type instead so that the default will only be used for inserts when the property value is 'null'.
+in method  at :
+
+[21-01-13 14:18:20 Warning]AutoLot.Mvc - Dev:AutoLot.Mvc.Controllers.HomeController
+Message:This is a test
+in method Index at D:\Projects\Books\csharp9-wf\Code\New\Chapter_31\AutoLot.Mvc\Controllers\HomeController.cs:25
+
+[21-01-13 14:28:21 Warning]:Microsoft.EntityFrameworkCore.Model.Validation
+Message:The 'bool' property '"IsDrivable"' on entity type '"Car"' is configured with a database-generated default. This default will always be used for inserts when the property has the value 'false', since this is the CLR default for the 'bool' type. Consider using the nullable 'bool?' type instead so that the default will only be used for inserts when the property value is 'null'.
+in method  at :
+
+[21-01-13 14:28:23 Warning]AutoLot.Mvc - Dev:AutoLot.Mvc.Controllers.HomeController
+Message:This is a test
+in method Index at D:\Projects\Books\csharp9-wf\Code\New\Chapter_31\AutoLot.Mvc\Controllers\HomeController.cs:25
+
+[21-01-13 14:32:58 Warning]:Microsoft.EntityFrameworkCore.Model.Validation
+Message:The 'bool' property '"IsDrivable"' on entity type '"Car"' is configured with a database-generated default. This default will always be used for inserts when the property has the value 'false', since this is the CLR default for the 'bool' type. Consider using the nullable 'bool?' type instead so that the default will only be used for inserts when the property value is 'null'.
+in method  at :
+
+[21-01-13 14:33:00 Warning]AutoLot.Mvc - Dev:AutoLot.Mvc.Controllers.HomeController
+Message:This is a test
+in method Index at D:\Projects\Books\csharp9-wf\Code\New\Chapter_31\AutoLot.Mvc\Controllers\HomeController.cs:25
+
+[21-01-13 14:40:43 Warning]:Microsoft.EntityFrameworkCore.Model.Validation
+Message:The 'bool' property '"IsDrivable"' on entity type '"Car"' is configured with a database-generated default. This default will always be used for inserts when the property has the value 'false', since this is the CLR default for the 'bool' type. Consider using the nullable 'bool?' type instead so that the default will only be used for inserts when the property value is 'null'.
+in method  at :
+
+[21-01-13 14:40:46 Warning]AutoLot.Mvc - Dev:AutoLot.Mvc.Controllers.HomeController
+Message:This is a test
+in method Index at D:\Projects\Books\csharp9-wf\Code\New\Chapter_31\AutoLot.Mvc\Controllers\HomeController.cs:25
+
+[21-01-13 15:56:32 Warning]:Microsoft.EntityFrameworkCore.Model.Validation
+Message:The 'bool' property '"IsDrivable"' on entity type '"Car"' is configured with a database-generated default. This default will always be used for inserts when the property has the value 'false', since this is the CLR default for the 'bool' type. Consider using the nullable 'bool?' type instead so that the default will only be used for inserts when the property value is 'null'.
+in method  at :
+
+[21-01-13 15:56:35 Warning]AutoLot.Mvc - Dev:AutoLot.Mvc.Controllers.HomeController
+Message:This is a test
+in method Index at D:\Projects\Books\csharp9-wf\Code\New\Chapter_31\AutoLot.Mvc\Controllers\HomeController.cs:25
+
+[21-01-13 17:01:22 Warning]:Microsoft.EntityFrameworkCore.Model.Validation
+Message:The 'bool' property '"IsDrivable"' on entity type '"Car"' is configured with a database-generated default. This default will always be used for inserts when the property has the value 'false', since this is the CLR default for the 'bool' type. Consider using the nullable 'bool?' type instead so that the default will only be used for inserts when the property value is 'null'.
+in method  at :
+
+[21-01-13 17:01:24 Warning]AutoLot.Mvc - Dev:AutoLot.Mvc.Controllers.HomeController
+Message:This is a test
+in method Index at D:\Projects\Books\csharp9-wf\Code\New\Chapter_31\AutoLot.Mvc\Controllers\HomeController.cs:26
+
+[21-01-13 18:11:36 Warning]:Microsoft.EntityFrameworkCore.Model.Validation
+Message:The 'bool' property '"IsDrivable"' on entity type '"Car"' is configured with a database-generated default. This default will always be used for inserts when the property has the value 'false', since this is the CLR default for the 'bool' type. Consider using the nullable 'bool?' type instead so that the default will only be used for inserts when the property value is 'null'.
+in method  at :
+
+[21-01-13 18:11:39 Warning]AutoLot.Mvc - Dev:AutoLot.Mvc.Controllers.HomeController
+Message:This is a test
+in method Index at D:\Projects\Books\csharp9-wf\Code\New\Chapter_31\AutoLot.Mvc\Controllers\HomeController.cs:26
+
+[21-01-13 18:13:02 Warning]:Microsoft.EntityFrameworkCore.Model.Validation
+Message:The 'bool' property '"IsDrivable"' on entity type '"Car"' is configured with a database-generated default. This default will always be used for inserts when the property has the value 'false', since this is the CLR default for the 'bool' type. Consider using the nullable 'bool?' type instead so that the default will only be used for inserts when the property value is 'null'.
+in method  at :
+
+[21-01-13 18:13:05 Warning]AutoLot.Mvc - Dev:AutoLot.Mvc.Controllers.HomeController
+Message:This is a test
+in method Index at D:\Projects\Books\csharp9-wf\Code\New\Chapter_31\AutoLot.Mvc\Controllers\HomeController.cs:26
+
+[21-01-13 18:14:28 Warning]:Microsoft.EntityFrameworkCore.Model.Validation
+Message:The 'bool' property '"IsDrivable"' on entity type '"Car"' is configured with a database-generated default. This default will always be used for inserts when the property has the value 'false', since this is the CLR default for the 'bool' type. Consider using the nullable 'bool?' type instead so that the default will only be used for inserts when the property value is 'null'.
+in method  at :
+
+[21-01-13 18:14:31 Warning]AutoLot.Mvc - Dev:AutoLot.Mvc.Controllers.HomeController
+Message:This is a test
+in method Index at D:\Projects\Books\csharp9-wf\Code\New\Chapter_31\AutoLot.Mvc\Controllers\HomeController.cs:26
+
+[21-01-13 18:15:31 Warning]:Microsoft.EntityFrameworkCore.Model.Validation
+Message:The 'bool' property '"IsDrivable"' on entity type '"Car"' is configured with a database-generated default. This default will always be used for inserts when the property has the value 'false', since this is the CLR default for the 'bool' type. Consider using the nullable 'bool?' type instead so that the default will only be used for inserts when the property value is 'null'.
+in method  at :
+
+[21-01-13 18:15:34 Warning]AutoLot.Mvc - Dev:AutoLot.Mvc.Controllers.HomeController
+Message:This is a test
+in method Index at D:\Projects\Books\csharp9-wf\Code\New\Chapter_31\AutoLot.Mvc\Controllers\HomeController.cs:26
+
+[21-01-13 18:55:54 Warning]:Microsoft.EntityFrameworkCore.Model.Validation
+Message:The 'bool' property '"IsDrivable"' on entity type '"Car"' is configured with a database-generated default. This default will always be used for inserts when the property has the value 'false', since this is the CLR default for the 'bool' type. Consider using the nullable 'bool?' type instead so that the default will only be used for inserts when the property value is 'null'.
+in method  at :
+
+[21-01-13 18:55:57 Warning]AutoLot.Mvc - Dev:AutoLot.Mvc.Controllers.HomeController
+Message:This is a test
+in method Index at D:\Projects\Books\csharp9-wf\Code\New\Chapter_31\AutoLot.Mvc\Controllers\HomeController.cs:26
+
+[21-01-13 18:59:54 Error]:Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor
+Message:The view '"ByMake"' was not found. Searched locations: ["/Views/Cars/ByMake.cshtml", "/Views/Shared/ByMake.cshtml"]
+in method  at :
+
+[21-01-13 18:59:54 Error]:Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware
+Message:An unhandled exception has occurred while executing the request.
+in method  at :
+System.InvalidOperationException: The view 'ByMake' was not found. The following locations were searched:
+/Views/Cars/ByMake.cshtml
+/Views/Shared/ByMake.cshtml
+   at Microsoft.AspNetCore.Mvc.ViewEngines.ViewEngineResult.EnsureSuccessful(IEnumerable`1 originalLocations)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.ExecuteAsync(ActionContext context, ViewResult result)
+   at Microsoft.AspNetCore.Mvc.ViewResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|29_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+
+[21-01-13 19:00:49 Warning]:Microsoft.EntityFrameworkCore.Model.Validation
+Message:The 'bool' property '"IsDrivable"' on entity type '"Car"' is configured with a database-generated default. This default will always be used for inserts when the property has the value 'false', since this is the CLR default for the 'bool' type. Consider using the nullable 'bool?' type instead so that the default will only be used for inserts when the property value is 'null'.
+in method  at :
+
+[21-01-13 19:00:52 Warning]AutoLot.Mvc - Dev:AutoLot.Mvc.Controllers.HomeController
+Message:This is a test
+in method Index at D:\Projects\Books\csharp9-wf\Code\New\Chapter_31\AutoLot.Mvc\Controllers\HomeController.cs:26
+

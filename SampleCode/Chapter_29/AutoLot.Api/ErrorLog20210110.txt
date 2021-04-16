@@ -1,0 +1,4 @@
+[21-01-10 15:40:41 Warning]AutoLot.Api - Dev:AutoLot.Api.Controllers.WeatherForecastController
+Message:This is a test
+in method Get at D:\Projects\Books\csharp9-wf\Code\New\Chapter_29\AutoLot.Api\Controllers\WeatherForecastController.cs:30
+

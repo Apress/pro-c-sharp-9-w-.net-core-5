@@ -1,0 +1,25 @@
+dotnet tool uninstall --global dotnet-ef
+dotnet tool install --global dotnet-ef --version 5.0.1
+
+dotnet ef dbcontext scaffold "server=.,5433;Database=AutoLot;User Id=sa;Password=P@ssw0rd;" Microsoft.EntityFrameworkCore.SqlServer -d -c ApplicationDbContext --context-namespace AutoLot.Dal.EfStructures --context-dir EfStructures --no-onconfiguring -n AutoLot.Models.Entities -o ..\AutoLot.Models\Entities -f
+
+dotnet ef migrations add Initial -o EfStructures\Migrations -c AutoLot.Dal.EfStructures.ApplicationDbContext
+dotnet ef database update Initial -c AutoLot.Dal.EfStructures.ApplicationDbContext
+
+dotnet ef migrations script --idempotent 0 initial -o FirstMigration.sql
+
+dotnet ef database drop -f
+
+dotnet ef migrations add UpdatedEntities -o EfStructures\Migrations -c AutoLot.Dal.EfStructures.ApplicationDbContext
+dotnet ef database update UpdatedEntities -c AutoLot.Dal.EfStructures.ApplicationDbContext
+
+dotnet ef migrations remove
+
+dotnet ef migrations add SQL -o EfStructures\Migrations -c AutoLot.Dal.EfStructures.ApplicationDbContext
+dotnet ef database update SQL -c AutoLot.Dal.EfStructures.ApplicationDbContext
+
+dotnet ef migrations remove
+
+dotnet ef migrations add test -o EfStructures\Migrations -c AutoLot.Dal.EfStructures.ApplicationDbContext
+
+dotnet ef dbcontext scaffold "server=.,5433;Database=AutoLot;User Id=sa;Password=P@ssw0rd;" Microsoft.EntityFrameworkCore.SqlServer -d -c ApplicationDbContext --context-namespace AutoLot.Dal.EfStructures --context-dir test\EfStructures --no-onconfiguring -n AutoLot.Models.Entities -o test\Entities -f

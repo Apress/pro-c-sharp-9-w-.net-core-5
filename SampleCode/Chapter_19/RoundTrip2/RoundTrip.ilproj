@@ -1,0 +1,8 @@
+<Project Sdk="Microsoft.NET.Sdk.IL">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+<MicrosoftNetCoreIlasmPackageVersion>5.0.0-preview.1.20120.5</MicrosoftNetCoreIlasmPackageVersion>
+<ProduceReferenceAssembly>false</ProduceReferenceAssembly>
+  </PropertyGroup>
+</Project>

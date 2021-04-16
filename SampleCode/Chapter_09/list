@@ -1,0 +1,22 @@
+ Volume in drive C is OS
+ Volume Serial Number is 6C0E-0B4D
+
+ Directory of C:\GitHub\Books\csharp9-wf\Code\New\Chapter_9
+
+11/22/2020  23:41    <DIR>          .
+11/22/2020  23:41    <DIR>          ..
+11/22/2020  23:40    <DIR>          .vscode
+01/20/2020  19:44             3,263 Chapter9_AllProjects.sln
+11/22/2020  23:41               535 CreateSolutionAndProject.cmd
+11/12/2020  21:23    <DIR>          
+10/19/2020  17:26           767,424 ildasm.exe
+11/12/2020  21:23    <DIR>          
+11/22/2020  23:41                 0 list
+01/12/2020  23:59               119 RunIlDasmDispose.cmd
+01/13/2020  00:00               123 RunIlDasmFinalize.cmd
+01/13/2020  00:00                99 RunIlDasmGC.cmd
+11/12/2020  21:23    <DIR>          
+11/12/2020  21:23    <DIR>          
+11/12/2020  21:23    <DIR>          
+               7 File(s)        771,563 bytes
+               8 Dir(s)  227,213,697,024 bytes free

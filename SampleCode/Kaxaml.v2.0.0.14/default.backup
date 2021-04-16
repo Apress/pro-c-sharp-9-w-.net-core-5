@@ -1,0 +1,89 @@
+<Page xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+	<Canvas>
+<Canvas xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" Name="radioactive" Width="615.89575" Height="540.0105">
+  <Canvas.Resources/>
+  <!--Unknown tag: sodipodi:namedview-->
+  <!--Unknown tag: metadata-->
+  <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path1965" StrokeThickness="1" Stroke="#000000" StrokeLineJoin="Miter" StrokeStartLineCap="Flat" StrokeEndLineCap="Flat" Data="M 24.689244 -160.5126 C 24.757113 -160.5635 24.689244 -160.34292 24.689244 -160.5126 z "/>
+  <Canvas Name="g1906">
+    <Canvas.RenderTransform>
+      <TranslateTransform X="8.146196" Y="8.022892"/>
+    </Canvas.RenderTransform>
+    <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path1892" Fill="#ffff00" Data="M 299.09375 -8 C 285.2752 -7.992418 276.97358 5.3760798 271.875 16.53125 C 179.06241 177.95887 85.093615 338.77609 -7 500.5625 C -12.655568 516.74325 3.5954928 534.90536 20.3125 531.59287 C 209.912 531.32032 399.54938 532.21713 589.125 531.09375 C 605.71557 527.93 613.80037 504.94424 602.49938 492.16558 C 507.36358 328.05043 413.40661 163.19507 317.5 -0.4375 C 312.77524 -5.3226321 305.97101 -8.3168021 299.09375 -8 z "/>
+    <Canvas Name="g4">
+      <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="sign_border" Fill="#000000" Data="M 597.6 499.6 L 313.8 8 C 310.9 3 305.6 0 299.9 0 C 294.2 0 288.9 3.1 286 8 L 2.2 499.6 C -0.7 504.6 -0.7 510.7 2.2 515.6 C 5.1 520.6 10.4 523.6 16.1 523.6 L 583.7 523.6 C 589.4 523.6 594.7 520.5 597.6 515.6 C 600.5 510.6 600.5 504.5 597.6 499.6 z "/>
+      <Polygon xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Points="43.9,491.5 299.9,48.2 555.9,491.5 43.9,491.5 " Name="sign_bg" FillRule="NonZero" Fill="#FFF7F619"/>
+    </Canvas>
+    <Canvas Name="g2978">
+      <Canvas.RenderTransform>
+        <TranslateTransform X="686.9172" Y="23.4099"/>
+      </Canvas.RenderTransform>
+      <Canvas Name="g2942">
+        <Rectangle xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="-392.22946" Canvas.Top="208.2478" Width="8.932188" Height="225.88577" Name="rect2934" Fill="#000000" StrokeThickness="0.88582665" Stroke="#000000" StrokeMiterLimit="4" StrokeStartLineCap="Square" StrokeEndLineCap="Square"/>
+        <Rectangle xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="-462.147" Canvas.Top="135.91931" Width="8.932188" Height="147.93304" Name="rect2940" Fill="#000000" StrokeThickness="0.88582653" Stroke="#000000" StrokeMiterLimit="4" StrokeStartLineCap="Square" StrokeEndLineCap="Square">
+          <Rectangle.RenderTransform>
+            <MatrixTransform Matrix="0.965926 -0.258819 0.258819 0.965926 0 0"/>
+          </Rectangle.RenderTransform>
+        </Rectangle>
+      </Canvas>
+      <Canvas Name="g2946">
+        <Canvas.RenderTransform>
+          <MatrixTransform Matrix="0.866025 -0.5 0.5 0.866025 -212.5458 -150.8503"/>
+        </Canvas.RenderTransform>
+        <Rectangle xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="-392.22946" Canvas.Top="208.2478" Width="8.932188" Height="225.88577" Name="rect2948" Fill="#000000" StrokeThickness="0.88582665" Stroke="#000000" StrokeMiterLimit="4" StrokeStartLineCap="Square" StrokeEndLineCap="Square"/>
+        <Rectangle xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="-462.147" Canvas.Top="135.91931" Width="8.932188" Height="147.93304" Name="rect2950" Fill="#000000" StrokeThickness="0.88582653" Stroke="#000000" StrokeMiterLimit="4" StrokeStartLineCap="Square" StrokeEndLineCap="Square">
+          <Rectangle.RenderTransform>
+            <MatrixTransform Matrix="0.965926 -0.258819 0.258819 0.965926 0 0"/>
+          </Rectangle.RenderTransform>
+        </Rectangle>
+      </Canvas>
+      <Canvas Name="g2952">
+        <Canvas.RenderTransform>
+          <MatrixTransform Matrix="0.5 -0.866025 0.866025 0.5 -472.0409 -175.2175"/>
+        </Canvas.RenderTransform>
+        <Rectangle xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="-392.22946" Canvas.Top="208.2478" Width="8.932188" Height="225.88577" Name="rect2954" Fill="#000000" StrokeThickness="0.88582665" Stroke="#000000" StrokeMiterLimit="4" StrokeStartLineCap="Square" StrokeEndLineCap="Square"/>
+        <Rectangle xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="-462.147" Canvas.Top="135.91931" Width="8.932188" Height="147.93304" Name="rect2956" Fill="#000000" StrokeThickness="0.88582653" Stroke="#000000" StrokeMiterLimit="4" StrokeStartLineCap="Square" StrokeEndLineCap="Square">
+          <Rectangle.RenderTransform>
+            <MatrixTransform Matrix="0.965926 -0.258819 0.258819 0.965926 0 0"/>
+          </Rectangle.RenderTransform>
+        </Rectangle>
+      </Canvas>
+      <Rectangle xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="-325.65689" Canvas.Top="-500.70599" Width="8.932188" Height="302.24036" Name="rect2960" Fill="#000000" StrokeThickness="0.88582659" Stroke="#000000" StrokeMiterLimit="4" StrokeStartLineCap="Square" StrokeEndLineCap="Square">
+        <Rectangle.RenderTransform>
+          <MatrixTransform Matrix="2.701365e-7 -1 1 1.508884e-7 0 0"/>
+        </Rectangle.RenderTransform>
+      </Rectangle>
+      <Rectangle xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="-214.3521" Canvas.Top="-531.64728" Width="8.932189" Height="147.93307" Name="rect2962" Fill="#000000" StrokeThickness="0.88582665" Stroke="#000000" StrokeMiterLimit="4" StrokeStartLineCap="Square" StrokeEndLineCap="Square">
+        <Rectangle.RenderTransform>
+          <MatrixTransform Matrix="-0.258819 -0.965926 0.965926 -0.258819 0 0"/>
+        </Rectangle.RenderTransform>
+      </Rectangle>
+      <Canvas Name="g2964">
+        <Canvas.RenderTransform>
+          <MatrixTransform Matrix="-0.5 -0.866026 0.866026 -0.5 -859.8043 145.9731"/>
+        </Canvas.RenderTransform>
+        <Rectangle xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="-392.22946" Canvas.Top="208.2478" Width="8.932188" Height="225.88577" Name="rect2966" Fill="#000000" StrokeThickness="0.88582665" Stroke="#000000" StrokeMiterLimit="4" StrokeStartLineCap="Square" StrokeEndLineCap="Square"/>
+        <Rectangle xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="-462.147" Canvas.Top="135.91931" Width="8.932188" Height="147.93304" Name="rect2968" Fill="#000000" StrokeThickness="0.88582653" Stroke="#000000" StrokeMiterLimit="4" StrokeStartLineCap="Square" StrokeEndLineCap="Square">
+          <Rectangle.RenderTransform>
+            <MatrixTransform Matrix="0.965926 -0.258819 0.258819 0.965926 0 0"/>
+          </Rectangle.RenderTransform>
+        </Rectangle>
+      </Canvas>
+      <Canvas Name="g2970">
+        <Canvas.RenderTransform>
+          <MatrixTransform Matrix="-0.866026 -0.500001 0.500001 -0.866026 -884.1717 405.4684"/>
+        </Canvas.RenderTransform>
+        <Rectangle xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="-392.22946" Canvas.Top="208.2478" Width="8.932188" Height="225.88577" Name="rect2972" Fill="#000000" StrokeThickness="0.88582665" Stroke="#000000" StrokeMiterLimit="4" StrokeStartLineCap="Square" StrokeEndLineCap="Square"/>
+        <Rectangle xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="-462.147" Canvas.Top="135.91931" Width="8.932188" Height="147.93304" Name="rect2974" Fill="#000000" StrokeThickness="0.88582653" Stroke="#000000" StrokeMiterLimit="4" StrokeStartLineCap="Square" StrokeEndLineCap="Square">
+          <Rectangle.RenderTransform>
+            <MatrixTransform Matrix="0.965926 -0.258819 0.258819 0.965926 0 0"/>
+          </Rectangle.RenderTransform>
+        </Rectangle>
+      </Canvas>
+    </Canvas>
+  </Canvas>
+</Canvas>
+
+	</Canvas>
+</Page>

@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <!--<ItemGroup>
+    <ProjectReference Include="..\CarLibrary\CarLibrary.csproj" />
+  </ItemGroup>-->
+
+  <ItemGroup>
+	  <PackageReference Include="CarLibrary" Version="1.0.0.3" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>VisualBasicCarClient</RootNamespace>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+</Project>
