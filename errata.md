@@ -2,13 +2,22 @@
 
 On **page 105** [code error]:
  
-The first line if ExecutePatternMatchingSwitch:
-2.5 should read 2.5m   —  This is required for consistency with the coding error.
+In ExecutePatternMatchingSwitch:
+2.5 should read 2.5M   —  This is required for consistency with the coding error.
+```c#
+  case "3":
+      choice = 2.5M;
+      break;
+```
 
-The actual coding error is in case “3”.  Where 2.5 should read 2.5m.
-
-Without the m (indicating decimal) the default statements are executed rather than the case 3 Statements Which is the intentIon.
-
+***
+On **page 302** [comment error]:
+ 
+The comment should read"
+```c#
+// a read-only property in an interface would be:
+byte Points { get; }
+```
 ***
 
 On **page xx** [Summary of error]:
