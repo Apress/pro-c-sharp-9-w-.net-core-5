@@ -356,7 +356,7 @@ static void ExecutePatternMatchingSwitch()
             choice = "Hi";
             break;
         case "3":
-            choice = 2.5;
+            choice = 2.5M;
             break;
         default:
             choice = 5;

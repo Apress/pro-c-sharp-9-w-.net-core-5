@@ -14,7 +14,7 @@
         // A read-write property in an interface would look like:
         //string PropName { get; set; }
 
-        // a write-only property in an interface would be:
+        // a read-only property in an interface would be:
         byte Points { get; }
     }
 }
