@@ -28,6 +28,7 @@ On line 5 from top there is a return missing after the colon –
 Given that C# lambda expressions are simply shorthand notations for working
 with anonymous methods, consider the third query expression created within the
 QueryStringsWithAnonymousMethods() helper function, shown here:
+
 static voidQueryStringsWithAnonymousMethods()
 
 ***
