@@ -20,8 +20,14 @@ byte Points { get; }
 ```
 ***
 
-On **page xx** [Summary of error]:
+On **page 525** [missing return]:
  
-Details of error here. Highlight key pieces in **bold**.
+On line 5 from top there is a return missing after the colon –
+“...function, shown here:static void”. It should be:
+
+Given that C# lambda expressions are simply shorthand notations for working
+with anonymous methods, consider the third query expression created within the
+QueryStringsWithAnonymousMethods() helper function, shown here:
+static voidQueryStringsWithAnonymousMethods()
 
 ***
