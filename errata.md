@@ -22,13 +22,18 @@ byte Points { get; }
 
 On **page 525** [missing return]:
  
-On line 5 from top there is a return missing after the colon –
-“...function, shown here:static void”. It should be:
+On page 525 line 5 from top there is a return missing after the colon. The following is incorrect:
 
-Given that C# lambda expressions are simply shorthand notations for working
-with anonymous methods, consider the third query expression created within the
+QueryStringsWithAnonymousMethods() helper function, shown here:static void
+QueryStringsWithAnonymousMethods()
+{
+
+The correction is as follows:
+
 QueryStringsWithAnonymousMethods() helper function, shown here:
+static void QueryStringsWithAnonymousMethods()
+{
 
-static voidQueryStringsWithAnonymousMethods()
+There is a similar issue on 540 at the start of the code sample in section Leveraging OS Verbs with ProcessStartInfo
 
 ***
