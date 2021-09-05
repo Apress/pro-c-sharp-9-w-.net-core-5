@@ -20,6 +20,15 @@ byte Points { get; }
 ```
 ***
 
+On **page 524** [wrong data type]:
+ 
+On page 524, second paragraph, first sentence whould read:
+
+The return value of the Where() method is hidden from view in this code example, but under the covers
+you are operating on an **Enumerable** type.
+
+***
+
 On **page 525** [missing return]:
  
 On page 525 line 5 from top there is a return missing after the colon. The following is incorrect:
@@ -35,5 +44,15 @@ static void QueryStringsWithAnonymousMethods()
 {
 
 There is a similar issue on 540 at the start of the code sample in section Leveraging OS Verbs with ProcessStartInfo
+
+***
+On **page 584** [incorrect sentence]:
+ 
+On page 584 in the final paragraph before the next section, the following sentence should be removed:
+
+If you were to run this version of the application, you would find that the
+Completed message shows before the Done with work! message.
+
+Code was refactored between editions and that sentence should have been removed.
 
 ***
