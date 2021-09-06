@@ -20,6 +20,15 @@ byte Points { get; }
 ```
 ***
 
+On **page 439** [wrong data type]:
+ 
+On page 439, second paragraph, second sentence whould read:
+
+Using this implementation of GetHashCode(), two anonymous types will yield the same hash value if 
+they have the same set of properties that have been assigned the same values.
+
+***
+
 On **page 524** [wrong data type]:
  
 On page 524, second paragraph, first sentence whould read:
