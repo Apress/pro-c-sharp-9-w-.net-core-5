@@ -38,21 +38,32 @@ you are operating on an **Enumerable** type.
 
 ***
 
-On **page 525** [formatting issue]:
+On **pages 525, 540, 575, 586** [formatting issues]:
  
-On page 525 line 5 from top there is a return missing after the colon. The following is incorrect:
-
-QueryStringsWithAnonymousMethods() helper function, shown here:static void
-QueryStringsWithAnonymousMethods()
-{
-
-The correction is as follows:
+Page 525 line 5 from top there is a line break missing between the text and the code sample. The correction is as follows:
 
 QueryStringsWithAnonymousMethods() helper function, shown here:
 static void QueryStringsWithAnonymousMethods()
 {
 
-There is a similar issue on 540 at the start of the code sample in section Leveraging OS Verbs with ProcessStartInfo
+Page 540 at the bottom of the page. There should be a line break like this:
+
+Create a new method with the following code:
+static void UseApplicationVerbs()
+{
+//rest omitted for brevity
+
+Page 757 (at the bottom of the page) should be formatted like this:
+
+Update the Cancel button Click event to the following code:
+private void cmdCancel_Click(object sender, EventArgs e)
+{
+
+Page 586 is also missing a line break. Last text bloxk in Awaitable Void Async Methods should be formatted like this:
+
+The caller of this method would then use the await keyword as so:
+await MethodReturningVoidAsync();
+Console.WriteLine("Void method complete");
 
 ***
 On **page 584** [incorrect sentence]:
