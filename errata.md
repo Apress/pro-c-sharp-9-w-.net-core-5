@@ -20,7 +20,7 @@ byte Points { get; }
 ```
 ***
 
-On **page 439** [wrong data type]:
+On **page 439** [improved wording]:
  
 On page 439, second paragraph, second sentence whould read:
 
@@ -38,7 +38,7 @@ you are operating on an **Enumerable** type.
 
 ***
 
-On **page 525** [missing return]:
+On **page 525** [formatting issue]:
  
 On page 525 line 5 from top there is a return missing after the colon. The following is incorrect:
 
