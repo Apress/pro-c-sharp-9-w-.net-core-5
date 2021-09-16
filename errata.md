@@ -9,11 +9,39 @@ In ExecutePatternMatchingSwitch:
       choice = 2.5M;
       break;
 ```
-
+***
+On **page 137-138** [code typo]:  
+The switch statements should case using EmpTypeEnum, and not EmpType. Correct is listed here:  
+```c#
+static void AskForBonus(EmpTypeEnum e)
+{
+  switch (e)
+  {
+    case EmpTypeEnum.Manager:
+      Console.WriteLine("How about stock options instead?");
+      break;
+    case EmpTypeEnum.Grunt:
+      Console.WriteLine("You have got to be kidding...");
+      break;
+    case EmpTypeEnum.Contractor:
+      Console.WriteLine("You already get enough cash...");
+      break;
+    case EmpTypeEnum.VicePresident:
+      Console.WriteLine("VERY GOOD, Sir!");
+      break;
+  }
+}
+```
+***
+On **page 141** [code error]:  
+The right shift example in Table 4-3 should be this:
+```c#
+0110 >> 1 = 0011 (3)
+```
 ***
 On **page 302** [comment error]:
  
-The comment should read"
+The comment should read  
 ```c#
 // a read-only property in an interface would be:
 byte Points { get; }
