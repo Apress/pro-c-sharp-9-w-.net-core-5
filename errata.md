@@ -1,5 +1,11 @@
 # Errata for *Pro C# 9 with .NET 5*
 
+On **page 3** [code error]:
+
+in the text "also run (and can be developed) on ios and linux":
+"ios" should be "macOS" 
+because ios can't be developed on.
+
 On **page 105** [code error]:
  
 In ExecutePatternMatchingSwitch:
