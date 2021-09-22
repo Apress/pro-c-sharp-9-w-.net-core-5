@@ -1,5 +1,19 @@
 # Errata for *Pro C# 9 with .NET 5*
 
+On **page 37** the text says: "To do so,activate the Project ➤ Add New Item menu option and locate the Class Diagram type"
+
+At the time of this writing, in .net 5 projects the class diagram template does NOT appear in the add new item menu (in spite of that it is present in winforms projects) so you can't add a class diagram file to your project.
+
+To work around that: follow instructions in the following page in order to manually create a class diagram file :
+
+
+https://github.com/MicrosoftDocs/visualstudio-docs/issues/2853#issuecomment-496319064
+
+
+After that you can double click the class diagram file that you just created in order to open it and you then you can start using the class designer.
+
+***
+
 On **page 105** [code error]:
  
 In ExecutePatternMatchingSwitch:
