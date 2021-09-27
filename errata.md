@@ -1,5 +1,11 @@
 # Errata for *Pro C# 9 with .NET 5*
 
+
+On **page 60** table 3-2:
+BufferHeightBufferWidth and WindowHeightWindowWidthWindowTopWindowLeft need to seperated into multiple lines or kept in the same line but have spaces between them.
+
+
+
 On **page 105** [code error]:
  
 In ExecutePatternMatchingSwitch:
