@@ -1,7 +1,12 @@
 # Errata for *Pro C# 9 with .NET 5*
 
-
-on **page 5**   
+On **page 3** [wording]:  
+The text:  
+"but can also run (and can be developed) on ios and linux"  
+should be:  
+"but can also be developed on macOS and Linux and run on iOS and Linux" 
+***
+on **page 5** [wording]   
 In note section, the text:  
 "I'm not saying you should **use not** .NET 5"  
 should be:  
