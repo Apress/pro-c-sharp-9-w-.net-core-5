@@ -1,6 +1,14 @@
 # Errata for *Pro C# 9 with .NET 5*
 
-On **page 60** table 3-2:  
+
+on **page 5**   
+In note section, the text:  
+"I'm not saying you should **use not** .NET 5"  
+should be:  
+"I'm not saying you should **not use** .NET 5"
+***
+On **page 60**   
+Table 3-2:    
 BufferHeightBufferWidth should be  
 BufferHeight  
 BufferWidth
