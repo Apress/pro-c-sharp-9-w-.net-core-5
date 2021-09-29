@@ -1,5 +1,16 @@
 # Errata for *Pro C# 9 with .NET 5*
 
+On **page 60** table 3-2:  
+BufferHeightBufferWidth should be  
+BufferHeight  
+BufferWidth
+
+and WindowHeightWindowWidthWindowTopWindowLeft should be  
+WindowHeight  
+WindowWidth  
+WindowTop  
+WindowLeft
+***
 On **page 105** [code error]:
  
 In ExecutePatternMatchingSwitch:
