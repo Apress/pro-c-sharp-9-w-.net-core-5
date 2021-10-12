@@ -27,7 +27,7 @@ Console.ReadLine();
 // A basic for loop.
 static void ForLoopExample()
 {
-    Console.WriteLine("================ For Loop ===============/n");
+    Console.WriteLine("================ For Loop ===============");
     // Note! "i" is only visible within the scope of the for loop.
     for (int i = 0; i < 4; i++)
     {
@@ -38,7 +38,7 @@ static void ForLoopExample()
 }
 static void ForEachLoopExample()
 {
-    Console.WriteLine("================ For Each Loop ===============/n");
+    Console.WriteLine("================ For Each Loop ===============");
     string[] carTypes = { "Ford", "BMW", "Yugo", "Honda" };
     foreach (string c in carTypes)
     {
@@ -57,7 +57,7 @@ static void ForEachLoopExample()
 
 static void LinqQueryOverInts()
 {
-    Console.WriteLine("================ Foreach With LINQ ===============/n");
+    Console.WriteLine("================ Foreach With LINQ ===============");
 
     int[] numbers = { 10, 20, 30, 40, 1, 2, 3, 8 };
 
@@ -74,7 +74,7 @@ static void LinqQueryOverInts()
 
 static void WhileLoopExample()
 {
-    Console.WriteLine("================ While Loop ===============/n");
+    Console.WriteLine("================ While Loop ===============");
     string userIsDone = "";
 
     // Test on a lower-class copy of the string.
@@ -89,7 +89,7 @@ static void WhileLoopExample()
 
 static void DoWhileLoopExample()
 {
-    Console.WriteLine("================ Do While Loop ===============/n");
+    Console.WriteLine("================ Do While Loop ===============");
 
     string userIsDone = "";
 
@@ -105,7 +105,7 @@ static void DoWhileLoopExample()
 
 static void IfElseExample()
 {
-    Console.WriteLine("================ If Else ===============/n");
+    Console.WriteLine("================ If Else ===============");
 
     string stringData = "My textual data";
     if (stringData.Length > 0)
@@ -121,7 +121,7 @@ static void IfElseExample()
 
 static void IfElsePatternMatching()
 {
-    Console.WriteLine("================ If Else Pattern Matching ===============/n");
+    Console.WriteLine("================ If Else Pattern Matching ===============");
     object testItem1 = 123;
     object testItem2 = "Hello";
     if (testItem1 is string myStringValue1)
@@ -147,7 +147,7 @@ static void IfElsePatternMatching()
 
 static void IfElsePatternMatchingUpdatedInCSharp9()
 {
-    Console.WriteLine("================ C# 9 If Else Pattern Matching Improvements ===============/n");
+    Console.WriteLine("================ C# 9 If Else Pattern Matching Improvements ===============");
     object testItem1 = 123;
     Type t = typeof(string);
     char c = 'f';
@@ -184,7 +184,7 @@ static void IfElsePatternMatchingUpdatedInCSharp9()
 
 static void ExecuteIfElseUsingConditionalOperator()
 {
-    Console.WriteLine("================ Conditional Operator ===============/n");
+    Console.WriteLine("================ Conditional Operator ===============");
     string stringData = "My textual data";
     Console.WriteLine(stringData.Length > 0
         ? "string is greater than 0 characters"
@@ -194,7 +194,7 @@ static void ExecuteIfElseUsingConditionalOperator()
 
 static void ConditionalRefExample()
 {
-    Console.WriteLine("================ Conditional Ref Operator ===============/n");
+    Console.WriteLine("================ Conditional Ref Operator ===============");
 
     var smallArray = new int[] { 1, 2, 3, 4, 5 };
     var largeArray = new int[] { 10, 20, 30, 40, 50 };
@@ -212,7 +212,7 @@ static void ConditionalRefExample()
 
 static void LogicalOperatorsExample()
 {
-    Console.WriteLine("================ Logical Operators ===============/n");
+    Console.WriteLine("================ Logical Operators ===============");
     bool t = true;
     bool f = false;
     Console.WriteLine($"{t.ToString()} && {t.ToString()} = {t && t}"); //true
@@ -252,7 +252,7 @@ static void SwitchExample()
 
 static void SwitchOnStringExample()
 {
-    Console.WriteLine("================ Switch (String) ===============/n");
+    Console.WriteLine("================ Switch (String) ===============");
 
     Console.WriteLine("C# or VB");
     Console.Write("Please pick your language preference: ");
@@ -274,7 +274,7 @@ static void SwitchOnStringExample()
 
 static void SwitchOnEnumExample()
 {
-    Console.WriteLine("================ Switch (Enum) ===============/n");
+    Console.WriteLine("================ Switch (Enum) ===============");
 
     Console.Write("Enter your favorite day of the week: ");
     DayOfWeek favDay;
@@ -318,7 +318,7 @@ static void SwitchOnEnumExample()
 
 static void SwitchWithGoto()
 {
-    Console.WriteLine("================ Switch (Goto) ===============/n");
+    Console.WriteLine("================ Switch (Goto) ===============");
 
     var foo = 5;
     switch (foo)
@@ -340,7 +340,7 @@ static void SwitchWithGoto()
 
 static void ExecutePatternMatchingSwitch()
 {
-    Console.WriteLine("================ Switch with Pattern matching ===============/n");
+    Console.WriteLine("================ Switch with Pattern matching ===============");
 
     Console.WriteLine("1 [Integer (5)], 2 [String (\"Hi\")], 3 [Decimal (2.5)]");
     Console.Write("Please choose an option: ");
@@ -383,7 +383,7 @@ static void ExecutePatternMatchingSwitch()
 
 static void ExecutePatternMatchingSwitchWithWhen()
 {
-    Console.WriteLine("================ Switch Pattern Matching with When ===============/n");
+    Console.WriteLine("================ Switch Pattern Matching with When ===============");
 
     Console.WriteLine("1 [C#], 2 [VB]");
     Console.Write("Please pick your language preference: ");
