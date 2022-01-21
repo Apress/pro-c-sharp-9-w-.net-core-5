@@ -81,6 +81,11 @@ they have the same set of properties that have been assigned the same values.
 
 ***
 
+On **page 495** [incorrect chapter back reference]:
+ 
+On page 495, first paragraph, the sentence referencing Chapter 9 should be referencing Chapter 10.   
+
+***
 On **page 524** [wrong data type]:
  
 On page 524, second paragraph, first sentence whould read:  
