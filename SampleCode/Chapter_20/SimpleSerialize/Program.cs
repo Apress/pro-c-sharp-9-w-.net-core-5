@@ -37,7 +37,7 @@ SaveListOfCarsAsXml("CarCollection.xml");
 Console.WriteLine("=> Saved person in XML format!");
 
 JamesBondCar savedCar = ReadAsXmlFormat<JamesBondCar>("CarData.xml");
-Console.WriteLine("Original Car: {0}", savedCar.ToString());
+Console.WriteLine("Original Car: {0}", jbc.ToString());
 Console.WriteLine("Read Car: {0}", savedCar.ToString());
 
 List<JamesBondCar> savedCars = ReadAsXmlFormat<List<JamesBondCar>>("CarCollection.xml");
@@ -73,7 +73,10 @@ JamesBondCar savedJsonCar = ReadAsJsonFormat<JamesBondCar>(options, "CarData.jso
 Console.WriteLine("Read Car: {0}", savedJsonCar.ToString());
 
 List<JamesBondCar> savedJsonCars = ReadAsJsonFormat<List<JamesBondCar>>(options, "CarCollection.json");
-Console.WriteLine("Read Car: {0}", savedJsonCar.ToString());
+foreach (var c in savedJsonCars)
+{
+    System.Console.WriteLine(c.ToString());
+}
 
 
 Console.ReadLine();
