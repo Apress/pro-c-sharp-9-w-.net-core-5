@@ -128,3 +128,23 @@ Completed message shows before the Done with work! message.
 Code was refactored between editions and that sentence should have been removed.
 
 ***
+On **page 755** [incorrect variable]:
+ 
+On page 755, the wrong variable is listed in the code. The code should read this: 
+```C#
+JamesBondCar savedCar = ReadAsXmlFormat<JamesBondCar>("CarData.xml"); 
+Console.WriteLine("Original Car: {0}", jbc.ToString()); 
+Console.WriteLine("Read Car: {0}", savedCar.ToString()); 
+```
+***
+On **page 762** [incorrect code example]:
+ 
+On page 762, the code sample needs to be updated to loop through the read cars. The code should read this: 
+```C#
+List<JamesBondCar> savedJsonCars = ReadAsJsonFormat<List<JamesBondCar>>(options, "CarCollection.json");
+foreach (var c in savedJsonCars)
+{
+    System.Console.WriteLine(c.ToString());
+}
+```
+***
