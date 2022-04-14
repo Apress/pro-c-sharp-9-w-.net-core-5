@@ -153,3 +153,12 @@ foreach (var c in savedJsonCars)
 }
 ```
 ***
+On **page 940** [incorrect code example]:
+ 
+On page 940, the last SQL code sample on the page needs to be updated to return TOP(2), not TOP(1) (example for SingleOrDefault): 
+```SQL
+SELECT TOP(2) [c].[Id], [c].[TimeStamp], [c].[FirstName], [c].[FullName], [c].[LastName]
+FROM [Dbo].[Customers] AS [c]
+WHERE [c].[Id] = 10
+``` 
+***
